@@ -16,6 +16,13 @@ The goal of this project is to analyze platform activity, engagement patterns, t
 * **Platform:** Kaggle Notebooks
 * **Language / Libraries:** Python (`google.cloud.bigquery`, `pandas`)
 * **SQL Skills Applied:** `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `COUNT`, `AVG`, `MAX`, String Matching (`LIKE`), and Date Functions (`EXTRACT`).
+### 🎯 Skills Demonstrated
+* **SQL Queries:** `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `HAVING`
+* **Aggregation Functions:** `COUNT()`, `AVG()`, `MAX()`, `SUM()`
+* **Date & Time Functions:** `EXTRACT(DAYOFWEEK)`, `EXTRACT(HOUR)`, `EXTRACT(YEAR)`
+* **Pattern & String Matching:** `LIKE`, `LOWER()`
+* **Advanced Analytics:** Inline Window Aggregations (`SUM() OVER()`)
+* **Database & Cloud:** Google BigQuery Public Datasets
 
 ---
 
