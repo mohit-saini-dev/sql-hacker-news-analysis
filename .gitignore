@@ -1,3 +1,28 @@
-.ipynb_checkpoints/
-*.log
+# OS & System Junk
 .DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python Caches & Build Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Virtual Environments & IDEs
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
+
+# Local Data / Exports / Temporary Files
+*.log
+*.csv
+*.xlsx
+*.parquet
+*.tmp
